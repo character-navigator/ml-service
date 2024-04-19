@@ -1,0 +1,44 @@
+Master
+Miss
+Admiral
+Ambassador
+Baron
+Baroness
+Brigadier
+Captain
+Chief
+Commander
+Comrade
+Consul
+Count
+Countess
+Countess of
+Dame
+Deputy
+Duchess
+Duke
+General
+Her Grace
+His Excellency
+Judge
+Justice
+Lady
+Lord
+Madam
+Madame
+Major
+Major General
+Marchioness
+Marquis
+Minister
+Prince
+Princess
+Professor
+Rabbi
+Senator
+Sheriff
+Sir
+The Earl of
+The Honourable
+Viscount
+Saint
