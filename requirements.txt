@@ -4,6 +4,6 @@ transformers
 torch
 openai
 pandas
-re
 langchain
 tiktoken
+beautifulsoup4
