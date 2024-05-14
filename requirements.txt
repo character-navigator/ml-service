@@ -7,3 +7,4 @@ pandas
 langchain
 tiktoken
 beautifulsoup4
+bert-score

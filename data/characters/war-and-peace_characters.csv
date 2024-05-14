@@ -13,8 +13,8 @@
 11,Anna Pávlovna,149
 12,Vasíli,146
 13,Bagratión,141
-14,Andrew,135
-15,Alpátych,135
+14,Alpátych,135
+15,Andrew,135
 16,Anna Mikháylovna,126
 17,Bourienne,124
 18,Alexander,122
@@ -39,382 +39,381 @@
 37,Pfuel,46
 38,Zherkóv,40
 39,Davout,39
-40,Arakchéev,38
-41,Dolgorúkov,38
+40,Dolgorúkov,38
+41,Arakchéev,38
 42,Ilyín,37
-43,Lavrúshka,36
-44,Weyrother,36
+43,Weyrother,36
+44,Lavrúshka,36
 45,Dessalles,35
 46,Dunyásha,34
 47,Barclay,33
-48,Ilyá,31
-49,Ermólov,31
+48,Ermólov,31
+49,Ilyá,31
 50,Timókhin,30
-51,Lise,29
-52,Shinshín,29
-53,Michael Ivánovich,29
+51,Shinshín,29
+52,Michael Ivánovich,29
+53,Lise,29
 54,Telyánin,29
 55,Willarski,28
-56,Gerásim,26
+56,Dokhtúrov,26
 57,Mávra,26
-58,Dokhtúrov,26
-59,Platón,26
+58,Platón,26
+59,Gerásim,26
 60,Hippolyte,25
 61,Ilágin,25
 62,Kuzmínichna,24
-63,Toll,24
-64,Vereshchágin,24
-65,Mamma,23
-66,De Beausset,23
-67,Joseph Alexéevich,22
+63,Vereshchágin,24
+64,Toll,24
+65,De Beausset,23
+66,Mamma,23
+67,Wolzogen,22
 68,Buonaparte,22
-69,Wolzogen,22
-70,Michaud,21
-71,Mary Hendríkhovna,21
+69,Joseph Alexéevich,22
+70,Mary Hendríkhovna,21
+71,Michaud,21
 72,Nicholas Rostóv,20
 73,Milorádovich,20
 74,Balagá,20
-75,Ferapóntov,19
-76,Suvórov,19
+75,Suvórov,19
+76,Ferapóntov,19
 77,Raévski,19
 78,Makár,18
 79,Drubetskóy,18
-80,Alexéevich,18
-81,Konovnítsyn,18
-82,Mack,18
-83,Kozlóvski,17
-84,Ramballe,17
-85,Rostóva,17
-86,Pelagéya,16
-87,Bezúkhova,16
-88,Nicholas Bolkónski,16
-89,Fëdorovna,16
-90,Morel,16
+80,Konovnítsyn,18
+81,Mack,18
+82,Alexéevich,18
+83,Ramballe,17
+84,Rostóva,17
+85,Kozlóvski,17
+86,Bezúkhova,16
+87,Morel,16
+88,Fëdorovna,16
+89,Nicholas Bolkónski,16
+90,Pelagéya,16
 91,Dimmler,15
-92,Váska,15
-93,Karáy,15
-94,Barclay de Tolly,14
-95,Mítenka,14
+92,Karáy,15
+93,Váska,15
+94,Francis,14
+95,Barclay de Tolly,14
 96,Sergéy,14
 97,Perónskaya,14
-98,Francis,14
-99,Anísya,14
-100,Berthier,13
-101,Bolkhovítinov,13
-102,Kuzmích,13
-103,Mílka,13
-104,George,13
-105,Bogdánich,13
-106,Métivier,13
-107,Armfeldt,12
-108,Plátov,12
-109,Buxhöwden,12
-110,Orlóv,12
-111,Dmítri,12
-112,Kochubéy,12
+98,Anísya,14
+99,Mítenka,14
+100,Bogdánich,13
+101,Kuzmích,13
+102,Mílka,13
+103,Métivier,13
+104,Bolkhovítinov,13
+105,Berthier,13
+106,George,13
+107,Christ,12
+108,Lázarev,12
+109,Simon,12
+110,Nikólenka,12
+111,Thiers,12
+112,Dmítri,12
 113,Karp,12
-114,Thiers,12
-115,Lázarev,12
-116,Papa,12
-117,Christ,12
-118,Paulucci,12
-119,Nikólenka,12
-120,Simon,12
+114,Orlóv,12
+115,Armfeldt,12
+116,Plátov,12
+117,Papa,12
+118,Kochubéy,12
+119,Buxhöwden,12
+120,Paulucci,12
 121,Langeron,11
-122,Magnítski,11
-123,Iogel,11
+122,Iogel,11
+123,Magnítski,11
 124,Yákov,11
-125,Ney,10
-126,Alexander I,10
-127,Drónushka,10
-128,Mary Bogdánovna,10
-129,Chichagóv,10
+125,Mary Bogdánovna,10
+126,Ney,10
+127,Alexander I,10
+128,Rapp,10
+129,Natalie,10
 130,Vasílich,10
-131,Belóva,10
-132,Natalie,10
-133,Rapp,10
-134,Julie Karágina,9
-135,Dmítrich,9
-136,Danílovna,9
-137,Lorrain,9
-138,Annette,9
+131,Drónushka,10
+132,Chichagóv,10
+133,Belóva,10
+134,Catiche,9
+135,Lorrain,9
+136,Julie Karágina,9
+137,Annette,9
+138,Dmítrich,9
 139,Wintzingerode,9
-140,Catiche,9
+140,Danílovna,9
 141,Wostóv,9
-142,Chernýshev,8
-143,Iván,8
-144,Uvárov,8
+142,Cyril Vladímirovich,8
+143,Uvárov,8
+144,Zakhár,8
 145,Volkónski,8
 146,Drubetskáya,8
-147,Matrëna,8
-148,Zakhár,8
-149,Rumyántsev,8
-150,Cyril Vladímirovich,8
-151,Másha,8
-152,Kaysárov,8
-153,Malvíntseva,7
-154,Peter Kirílych,7
-155,Bolkónskaya,7
-156,Schmidt,7
-157,Savélich,7
-158,Likhachëv,7
-159,Mortemart,7
-160,Nastásya,7
-161,Zhilínski,7
-162,Mamónov,7
-163,Makárin,7
-164,Erzá,7
-165,Ostermann,7
-166,Zdrzhinski,7
-167,Malásha,7
-168,Michael Ilariónovich,6
-169,Paul,6
-170,Kámenski,6
-171,Friant,6
-172,Túchkov,6
-173,Caulaincourt,6
-174,Agraféna,6
+147,Másha,8
+148,Rumyántsev,8
+149,Kaysárov,8
+150,Chernýshev,8
+151,Iván,8
+152,Matrëna,8
+153,Zhilínski,7
+154,Nastásya,7
+155,Makárin,7
+156,Mamónov,7
+157,Mortemart,7
+158,Zdrzhinski,7
+159,Schmidt,7
+160,Malásha,7
+161,Peter Kirílych,7
+162,Bolkónskaya,7
+163,Malvíntseva,7
+164,Ostermann,7
+165,Savélich,7
+166,Erzá,7
+167,Likhachëv,7
+168,Obolénski,6
+169,Andrúsha,6
+170,Tolstóy,6
+171,Poniatowski,6
+172,Shcherbínin,6
+173,Kámenski,6
+174,Louis XIV,6
 175,Bazdéev,6
-176,Lauriston,6
-177,Andrúsha,6
-178,Louis XIV,6
-179,Fabvier,6
+176,Agraféna,6
+177,Paul,6
+178,Mortier,6
+179,Klyucharëv,6
 180,Fédya,6
-181,Klyucharëv,6
-182,Katie,6
-183,Obolénski,6
-184,Tsarévich,6
-185,Shcherbínin,6
-186,Mortier,6
-187,Tolstóy,6
-188,Stein,6
-189,Poniatowski,6
-190,Schérer,5
-191,Bóry,5
-192,Achilles,5
-193,Mítka,5
-194,Terénty,5
-195,Marie,5
-196,Markóv,5
-197,Grékov,5
-198,Chateaubriand,5
-199,Golítsyn,5
-200,Semënov,5
-201,Kírsten,5
-202,Talleyrand,5
-203,Moreau,5
-204,Peter Kirílovich,5
-205,Louis XVI,5
-206,Broussier,5
-207,Vyazmítinov,5
-208,Leppich,5
-209,Nataly,5
-210,De Staël,5
-211,Novosíltsev,5
-212,Apráksina,5
-213,Ivánushka,5
-214,Theodosia,5
-215,Andréevich,5
-216,Claparède,5
-217,Gérard,5
-218,Morand,5
-219,Junot,5
-220,Valúev,5
-221,Belliard,5
-222,Savary,4
-223,Míshka,4
-224,Voltaire,4
-225,Gabriel,4
-226,Andrew Bolkónski,4
-227,Newton,4
-228,Joseph Bazdéev,4
-229,Shcherbáty,4
-230,Daniel Teréntich,4
-231,Louisa Ivánovna,4
-232,Adráksin,4
-233,Makéev,4
-234,Napoleon III,4
-235,Khvóstikov,4
-236,Rousseau,4
-237,Peter Nikoláevich,4
-238,Vicomte,4
-239,Stolýpin,4
-240,Campan,4
-241,Dórokhov,4
-242,Bítski,4
-243,Gervais,4
-244,Mary Nikoláevna,4
-245,Von Toll,4
-246,Copernicus,4
-247,Schoss,4
-248,Franz,4
-249,Sídorov,4
-250,Dessaix,4
-251,Kutáysov,4
-252,Borodinó,4
-253,Wittgenstein,4
-254,Sophie,4
-255,Theodore Iványch,4
-256,Duport,4
-257,Rugáy,4
-258,Narýshkin,4
-259,Nikíta,4
-260,Przebyszéwski,4
-261,Auersperg,4
-262,Morio,4
-263,Lannes,4
-264,Rook,3
-265,Chance,3
+181,Fabvier,6
+182,Túchkov,6
+183,Katie,6
+184,Caulaincourt,6
+185,Stein,6
+186,Michael Ilariónovich,6
+187,Friant,6
+188,Tsarévich,6
+189,Lauriston,6
+190,Terénty,5
+191,Valúev,5
+192,Apráksina,5
+193,Andréevich,5
+194,Semënov,5
+195,Vyazmítinov,5
+196,Chateaubriand,5
+197,Broussier,5
+198,Louis XVI,5
+199,Novosíltsev,5
+200,Leppich,5
+201,Nataly,5
+202,Junot,5
+203,Bóry,5
+204,Claparède,5
+205,Schérer,5
+206,Gérard,5
+207,Kírsten,5
+208,Belliard,5
+209,Moreau,5
+210,Theodosia,5
+211,Markóv,5
+212,Golítsyn,5
+213,Peter Kirílovich,5
+214,Marie,5
+215,Mítka,5
+216,Morand,5
+217,Grékov,5
+218,De Staël,5
+219,Achilles,5
+220,Talleyrand,5
+221,Ivánushka,5
+222,Louisa Ivánovna,4
+223,Narýshkin,4
+224,Gervais,4
+225,Duport,4
+226,Przebyszéwski,4
+227,Von Toll,4
+228,Borodinó,4
+229,Makéev,4
+230,Míshka,4
+231,Rugáy,4
+232,Lannes,4
+233,Newton,4
+234,Auersperg,4
+235,Theodore Iványch,4
+236,Vicomte,4
+237,Savary,4
+238,Stolýpin,4
+239,Napoleon III,4
+240,Voltaire,4
+241,Peter Nikoláevich,4
+242,Andrew Bolkónski,4
+243,Mary Nikoláevna,4
+244,Wittgenstein,4
+245,Daniel Teréntich,4
+246,Rousseau,4
+247,Dórokhov,4
+248,Schoss,4
+249,Bítski,4
+250,Joseph Bazdéev,4
+251,Sídorov,4
+252,Khvóstikov,4
+253,Copernicus,4
+254,Nikíta,4
+255,Dessaix,4
+256,Franz,4
+257,Adráksin,4
+258,Shcherbáty,4
+259,Morio,4
+260,Sophie,4
+261,Gabriel,4
+262,Kutáysov,4
+263,Campan,4
+264,Kurákin,3
+265,Davýdov,3
 266,Mítya,3
-267,Anna Makárovna,3
-268,Goliath,3
-269,Lelorgne,3
-270,Jackdaw,3
-271,Antón,3
-272,Sávishna,3
-273,Anna Ignátyevna,3
-274,Mikháylovna,3
-275,Mouton,3
-276,Sergéevich,3
-277,Lopukhín,3
-278,Shishkóv,3
-279,Aníska,3
-280,Fóka,3
-281,Metternich,3
-282,Matvévna,3
-283,Yákovlev,3
-284,Catherine Petróvna,3
-285,Karágins,3
-286,Sokolóv,3
-287,Bekleshëv,3
-288,Tutólmin,3
-289,Tarás,3
-290,Kurákin,3
-291,Tormásov,3
-292,Repnín,3
-293,Antónovna,3
-294,Iványch,3
-295,Czartorýski,3
-296,Potëmkin,3
+267,Repnín,3
+268,Philip,3
+269,Jackdaw,3
+270,Melyukóvs,3
+271,Goliath,3
+272,Anna Semënovna,3
+273,Sergéevich,3
+274,Mouton,3
+275,Antónovna,3
+276,Yákovlev,3
+277,Akhrosímova,3
+278,Iványch,3
+279,Metternich,3
+280,Anna Ignátyevna,3
+281,Chance,3
+282,Lëlya,3
+283,Rook,3
+284,Antón,3
+285,Anna Makárovna,3
+286,Efím,3
+287,Shishkóv,3
+288,Lopukhín,3
+289,Karágins,3
+290,Aníska,3
+291,D dIdeville Ideville,3
+292,Tarás,3
+293,Lelorgne,3
+294,Ekonómov,3
+295,Matvévna,3
+296,Theodore Vasílyevich,3
 297,Monsieur de Jobert,3
-298,Anna Semënovna,3
-299,Larrey,3
-300,Karágina,3
-301,Comte,3
-302,Philip,3
-303,Melyukóvs,3
-304,Lëlya,3
-305,D dIdeville Ideville,3
-306,Uvárka,3
-307,Pwince,3
-308,Scherbínin,3
-309,David,3
-310,Efím,3
-311,Ignát,3
-312,Theodore Vasílyevich,3
-313,Ekonómov,3
-314,Akhrosímova,3
-315,Davýdov,3
-316,Moses,2
-317,Hercules,2
-318,Smolyanínov,2
-319,Natálya,2
-320,Lanskóy,2
-321,Ismail,2
-322,Ilyníchna,2
-323,Peter Petróvich,2
-324,Julie Drubetskáya,2
-325,Vincent,2
-326,André,2
-327,Dohktúrov,2
-328,Saltykóv,2
-329,Firhoff,2
-330,Peter Ivánovich,2
-331,Potëmkins,2
-332,Schneider,2
-333,Vogel,2
-334,Buckle,2
-335,Bruin,2
-336,Mademoiselle,2
-337,Duroc,2
-338,Sergius,2
-339,Michael Mítrich,2
-340,Petróv,2
-341,Natalie Rostóva,2
-342,Ilyúshka,2
-343,Vasílevich,2
-344,Amélie,2
-345,Leo Tolstoy,2
-346,Gervinus,2
-347,Paul Ivánovich,2
-348,Tatáwinova,2
-349,Catherine Semënovna,2
-350,Brünn,2
-351,Peter the Great,2
-352,Suvórovs,2
-353,Charles IX,2
-354,Napoléon,2
-355,Semënova,2
-356,Daniel Cooper,2
-357,Vesénny,2
+298,Tutólmin,3
+299,Fóka,3
+300,Czartorýski,3
+301,Larrey,3
+302,Pwince,3
+303,David,3
+304,Ignát,3
+305,Bekleshëv,3
+306,Comte,3
+307,Uvárka,3
+308,Catherine Petróvna,3
+309,Sokolóv,3
+310,Karágina,3
+311,Mikháylovna,3
+312,Sávishna,3
+313,Potëmkin,3
+314,Tormásov,3
+315,Scherbínin,3
+316,Schneider,2
+317,Vewy,2
+318,Bismarck,2
+319,Potëmkins,2
+320,Eýkhen,2
+321,Lanskóy,2
+322,Granddad,2
+323,Amélie,2
+324,Jerome,2
+325,Mary Bolkónskaya,2
+326,Stepán,2
+327,Sergius,2
+328,Gúryev,2
+329,Michael Mítrich,2
+330,Firhoff,2
+331,Wintzingerodes,2
+332,Vladímir,2
+333,Paul Ivánovich,2
+334,Vesénny,2
+335,Charles IX,2
+336,Zaletáev,2
+337,Napoléon,2
+338,Gervinus,2
+339,Barbara Ivánovna,2
+340,So,2
+341,Mary Ivánovna,2
+342,Prokófy,2
+343,Napoleon I,2
+344,Julie Drubetskáya,2
+345,Saltykóv,2
+346,Héloïse,2
+347,Plutarch,2
+348,Dohktúrov,2
+349,Mademoiselle,2
+350,Nicholas Andréevich,2
+351,Duroc,2
+352,Vincent,2
+353,Vasílevich,2
+354,Constantine Pávlovich,2
+355,D dEnghien Enghien,2
+356,Gideon,2
+357,Daniel Cooper,2
 358,Diana,2
-359,Seslávin,2
-360,Bagovút,2
-361,Stevens,2
-362,Karpúshka,2
-363,Constantine Pávlovich,2
-364,Olga,2
+359,Sukhtélen,2
+360,Tit,2
+361,Bondarchúk,2
+362,Buckle,2
+363,Suvórovs,2
+364,De Turenne,2
 365,Pryánichnikov,2
-366,Mary Ivánovna,2
-367,Pétrusha,2
-368,Granddad,2
-369,Gúryev,2
-370,Bismarck,2
-371,Misha,2
-372,Strógonov,2
-373,Wintzingerodes,2
-374,Nikoláevich,2
-375,Zaletáev,2
-376,Nicholas Andréevich,2
-377,Pierre Bezúkhov,2
-378,Serenity,2
-379,Mavrúshka,2
-380,Evstáfey,2
-381,Feoktíst,2
-382,Demyán,2
-383,Karl Ivánich,2
-384,Kurágina,2
-385,Fichte,2
-386,Plutarch,2
-387,Monsieur Buonaparte,2
-388,Héloïse,2
-389,Mary Alexéevna,2
-390,Barbara Ivánovna,2
-391,Aline,2
-392,Bondarchúk,2
-393,Síla,2
-394,Karl,2
-395,Gideon,2
-396,So,2
-397,Napoleon Bonaparte,2
-398,Bondarénko,2
-399,Stepán,2
-400,Tit,2
-401,Prokófy,2
-402,Vladímir,2
-403,Vewy,2
-404,Sukhtélen,2
-405,Amalek,2
-406,Sophia Danílovna,2
-407,Jerome,2
-408,Chekmár,2
-409,Villeneuve,2
-410,Photius,2
-411,Louis XVIII,2
-412,Napoleon I,2
-413,Mary Bolkónskaya,2
-414,De Turenne,2
-415,D dEnghien Enghien,2
-416,Peter Ilýnich,2
-417,Mimi,2
-418,Eýkhen,2
+366,Brünn,2
+367,Vogel,2
+368,Karpúshka,2
+369,Peter the Great,2
+370,Strógonov,2
+371,Bruin,2
+372,Ilyníchna,2
+373,Peter Petróvich,2
+374,André,2
+375,Bagovút,2
+376,Evstáfey,2
+377,Mimi,2
+378,Síla,2
+379,Chekmár,2
+380,Fichte,2
+381,Semënova,2
+382,Seslávin,2
+383,Feoktíst,2
+384,Amalek,2
+385,Tatáwinova,2
+386,Natálya,2
+387,Olga,2
+388,Karl,2
+389,Hercules,2
+390,Ismail,2
+391,Napoleon Bonaparte,2
+392,Serenity,2
+393,Mary Alexéevna,2
+394,Aline,2
+395,Bondarénko,2
+396,Natalie Rostóva,2
+397,Kurágina,2
+398,Karl Ivánich,2
+399,Pétrusha,2
+400,Nikoláevich,2
+401,Stevens,2
+402,Peter Ivánovich,2
+403,Photius,2
+404,Mavrúshka,2
+405,Petróv,2
+406,Louis XVIII,2
+407,Misha,2
+408,Peter Ilýnich,2
+409,Smolyanínov,2
+410,Monsieur Buonaparte,2
+411,Villeneuve,2
+412,Ilyúshka,2
+413,Catherine Semënovna,2
+414,Sophia Danílovna,2
+415,Moses,2
+416,Demyán,2
+417,Pierre Bezúkhov,2
