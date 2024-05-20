@@ -79,3 +79,17 @@ An error occurred while summarizing chunk 16: Expecting value: line 2 column 15 
 An error occurred while summarizing chunk 17: Expecting value: line 2 column 15 (char 16)
 An error occurred while summarizing chunk 24: Expecting value: line 2 column 15 (char 16)
 An error occurred while summarizing chunk 25: list index out of range
+An error occurred while summarizing chunk 11: Expecting value: line 2 column 17 (char 18)
+An error occurred while summarizing chunk 13: Expecting value: line 2 column 16 (char 17)
+An error occurred while summarizing chunk 20: list index out of range
+An error occurred while summarizing chunk 25: list index out of range
+An error occurred while summarizing chunk 10: list index out of range
+An error occurred while summarizing chunk 13: Expecting value: line 2 column 16 (char 17)
+An error occurred while summarizing chunk 25: list index out of range
+An error occurred while summarizing chunk 10: list index out of range
+An error occurred while summarizing chunk 13: Expecting value: line 2 column 16 (char 17)
+An error occurred while summarizing chunk 24: Expecting value: line 2 column 15 (char 16)
+An error occurred while summarizing chunk 25: list index out of range
+An error occurred while summarizing chunk 6: Expecting value: line 2 column 15 (char 16)
+An error occurred while summarizing chunk 13: Expecting value: line 2 column 16 (char 17)
+An error occurred while summarizing chunk 14: Expecting value: line 2 column 15 (char 16)
