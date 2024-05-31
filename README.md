@@ -18,3 +18,6 @@ Ensure all commands are executed from the project root.
     ```bash
     pip install -r requirements.txt
     ```
+2.  **Extract Characters**: To extract all characters from your .epub file run all cells in `character_extraction.ipynb`.
+
+3.  **Summarize Characters**: To summarize the extacted characters run all cells in `character_summarization.ipynb`.
