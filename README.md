@@ -6,8 +6,10 @@ ML-Service is a repository created for the purpose of extracting and summarizing
 
 - **Evaluation Program**: The Evaluation Program allows for the manual insertion of a reference and a candidate string. This facilitates the evaluation of the summary using BERTScore metrics such as F1, Recall, and Precision.
 
+## Note
 
-
+- In the `character_extraction.ipynb` notebook, the books are hardcoded and need to be adjusted accordingly.
+- In the `character_summarization.ipynb` notebook, the books are hardcoded and need to be adjusted. Additionally, when summarizing a range of characters, the range has to be manually inserted in the extract chunks section.
 
 ## Project Setup
 Ensure all commands are executed from the project root.
