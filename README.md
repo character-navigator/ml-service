@@ -14,7 +14,7 @@ ML-Service is a repository created for the purpose of extracting and summarizing
 ## Project Setup
 Ensure all commands are executed from the project root.
 
-**Install Dependencies**: Use `pip` to install the required packages.
+1. **Install Dependencies**: Use `pip` to install the required packages.
     ```bash
     pip install -r requirements.txt
     ```
