@@ -8,8 +8,8 @@ ML-Service is a repository created for the purpose of extracting and summarizing
 
 ## Note
 
-- In the `character_extraction.ipynb` notebook, the books are hardcoded and need to be adjusted accordingly.
-- In the `character_summarization.ipynb` notebook, the books are hardcoded and need to be adjusted. Additionally, when summarizing a range of characters, the range has to be manually inserted in the extract chunks section.
+- In the `character_extraction.ipynb` notebook, the name of the books are hardcoded and need to be adjusted accordingly.
+- In the `character_summarization.ipynb` notebook, the name of the books are hardcoded and need to be adjusted. Additionally, when summarizing a range of characters, the range has to be manually inserted in the extract chunks section.
 
 ## Project Setup
 Ensure all commands are executed from the project root.
