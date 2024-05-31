@@ -14,18 +14,7 @@ ML-Service is a repository created for the purpose of extracting and summarizing
 ## Project Setup
 Ensure all commands are executed from the project root.
 
-1. **Environment Setup**: Create and activate a virtual environment.
-    ```bash
-    python3 -m venv venv
-    source venv/bin/activate
-    ```
-
-2. **Install Dependencies**: Install all required dependencies.
+**Install Dependencies**: Use `pip` to install the required packages.
     ```bash
     pip install -r requirements.txt
-    ```
-
-3. **Run Tests**: Execute all tests (requires Docker to run locally).
-    ```bash
-    pytest
     ```
