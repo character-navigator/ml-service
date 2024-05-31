@@ -16,5 +16,6 @@ Ensure all commands are executed from the project root.
 
 **Install Dependencies**: Use `pip` to install the required packages.
     ```bash
-    pip install -r requirements.txt
+    pip install -r 
+    requirements.txt
     ```
